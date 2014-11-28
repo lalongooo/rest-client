@@ -1,0 +1,5 @@
+com/tyket/model/User.class
+com/tyket/rest/client/TyketRestClient$1.class
+com/tyket/rest/client/TyketRestClient.class
+com/tyket/model/Ticket.class
+com/tyket/model/Article.class
